@@ -36,3 +36,7 @@ Fluxo baseado em GitFlow: `main` para versões estáveis, `develop` para integra
 
 ## Deploy
 O projeto pode ser publicado no GitHub Pages. A branch `main` contém a versão estável destinada à publicação.
+
+## Acessibilidade
+
+O projeto utiliza HTML semântico, textos alternativos em imagens, labels em formulários, navegação por teclado e estados de foco visíveis. Também foram aplicados atributos WAI-ARIA quando necessário, buscando seguir as recomendações de acessibilidade WCAG 2.1.
